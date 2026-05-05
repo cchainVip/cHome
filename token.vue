@@ -76,7 +76,7 @@
 					this.decimals = 18;
 					this.totalSupply = 30000000;
 					this.time = 1717256667000;
-					this.desc = '开源 Ai 智能链';
+					this.desc = 'c chain';
 					this.web = 'https://cchaingov.org/';
 					this.level = 'S';
 				}
